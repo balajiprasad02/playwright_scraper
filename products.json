@@ -1,17 +1,47 @@
 [
-    {
-      "id": "101",
-      "name": "Product A",
-      "category": "Electronics",
-      "price": "$199.99",
-      "stock": "50"
-    },
-    {
-      "id": "102",
-      "name": "Product B",
-      "category": "Apparel",
-      "price": "$49.99",
-      "stock": "150"
-    }
-  ]
-  
+  {
+    "ID": 0,
+    "Price": "$39.34",
+    "Stock": 562,
+    "Warranty": "30 Days",
+    "Product": "Luxury Health Collection",
+    "Item Code": "HEA-8553-0",
+    "Category": "Health"
+  },
+  {
+    "ID": 1,
+    "Price": "$251.66",
+    "Stock": 320,
+    "Warranty": "None",
+    "Product": "Advanced Garden Device",
+    "Item Code": "GAR-8488-1",
+    "Category": "Garden"
+  },
+  {
+    "ID": 2,
+    "Price": "$923.46",
+    "Stock": 328,
+    "Warranty": "None",
+    "Product": "Premium Electronics System",
+    "Item Code": "ELE-1740-2",
+    "Category": "Electronics"
+  },
+  {
+    "ID": 3,
+    "Price": "$28.15",
+    "Stock": 159,
+    "Warranty": "6 Months",
+    "Product": "Smart Toys Set",
+    "Item Code": "TOY-2273-3",
+    "Category": "Toys"
+  },
+  {
+    "ID": 4,
+    "Price": "$738.11",
+    "Stock": 472,
+    "Warranty": "30 Days",
+    "Product": "Modern Electronics Device",
+    "Item Code": "ELE-6477-4",
+    "Category": "Electronics"
+  }
+]
